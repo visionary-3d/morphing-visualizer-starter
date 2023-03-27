@@ -1,9 +1,11 @@
 # Music Visualizer Tutorial
 
 ## https://youtu.be/QRpCmBZpBU0
+[![Three js Music Visualizer With Shaders For Beginners](https://user-images.githubusercontent.com/64514807/227888729-26b2ebd0-56d9-409f-b2e6-12e7109f6f84.png)](https://youtu.be/QRpCmBZpBU0)
 
 
-Three webpack 5 using Babel, PostCSS, Sass and Gsap.
+This is the starter repo and it's based on my Three Webpack boilerplate. 
+Three.js webpack 5 using Babel, PostCSS, Sass and Gsap.
 
 ## Installation
 
