@@ -1,6 +1,9 @@
-# Three Webpack Boilerplate
+# Music Visualizer Tutorial
 
-Three webpack 5 boilerplate using Babel, PostCSS, Sass and Gsap.
+## https://youtu.be/QRpCmBZpBU0
+
+
+Three webpack 5 using Babel, PostCSS, Sass and Gsap.
 
 ## Installation
 
